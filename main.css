@@ -1,48 +1,13 @@
 body {
-    padding-left: 30em;
-    padding-right: 30em;
+	padding-top: 50px;
+	font-size: 1.6em;
 }
 
-body {
-    font-family: 'Roboto', sans-serif;
-    background-color: black;
-}
-li {
-    margin-bottom: 0.5em;
-    list-style: none;
+.starter-template {
+	padding: 40px 15px;
+	text-align: center;
 }
 
-a {
-    text-decoration: none;
-    transition: all 0.3s ease;
-    color: #fff;
-}
-a:hover, a:active {
-    border-bottom: 1px solid;
-}
-
-.intro {
-    text-align: center;
-    color: white;
-}
-
-.links {
-	font-size: 1.5em;
-	margin-top: 5em;
-}
-
-
-.intro {
-    margin-top: 5em;
-    font-size: 2em;
-}
-
-.links li:hover a {
-  color: #FFCC00;
-  border: None;
-}
-
-li:before {
-    content: "• ";
-    color: #CC9900;
+.meet-info {
+	margin-bottom: 20px;
 }
